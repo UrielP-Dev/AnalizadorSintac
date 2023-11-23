@@ -1,5 +1,1 @@
-ID+ID
-ID*ID
-ID+ID
-ID
-(ID+ID*ID)
+INICIO id = exp ; id = exp ; FIN
