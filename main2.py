@@ -1,4 +1,4 @@
-from scr import AnalizadorSintactico
+from scr2 import AnalizadorSintactico
 
 
 nombre_archivo = 'CodigoFuente.txt'
